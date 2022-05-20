@@ -2,7 +2,11 @@ package codingLevel01;
 
 public class We_love_kriii {
 	public static void main(String[] args) {
-		System.out.println("강한친구 대한육군");
-		System.out.println("강한친구 대한육군");
+		System.out.println("         ,r'\"7");
+		System.out.println("r`-_   ,'  ,/");
+		System.out.println(" \\. \". L_r'");
+		System.out.println("   `~\\/");
+		System.out.println("      |");
+		System.out.println("      |");
 	}
 }
