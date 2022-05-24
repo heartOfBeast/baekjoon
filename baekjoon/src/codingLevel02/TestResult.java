@@ -17,6 +17,6 @@ public class TestResult {
 		else if(A>=60)
 			System.out.println("D");
 		else
-			System.out.println("F");
+			System.out.println("f");
 	}
 }
